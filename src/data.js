@@ -1,4 +1,6 @@
-const PLANTS = [
+// "export" was missing here
+
+export const PLANTS = [
   {
     id: 1,
     image: "🌿",
